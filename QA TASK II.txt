@@ -1,0 +1,86 @@
+Chatter Box
+
+1. [Look and feel] Placeholder = share an update.. with share button on the right side of chatter box
+2. Has the ability to get input of text with alphabets.
+3. Has the ability to get input of text with numbers.
+4. Has the ability to get input of text with special characters.
+5. Can use words with different laguages also tamil, malayalam, chinese.
+6. There is no restriction of using of any vulnerable words.
+7. Share button should be visible, only when there is any text in the chatter box.
+8. Share button should not be visible, when there is no text in the chatter box.
+9. We cannot go to next line by pointing curser to the next bottom line.
+10. PgDn button cannot takes to go new line
+11. Enter button be used to go to next line in the bottom 
+12. It should go to next line, when the sentence wasn't completed in the first line itself.
+13. When the last word in a line cannot be completed within line, It will move to next line with the letters of that word and will be completed in the next line.
+14. We can navigate to words and lines using left and right arrow button 
+15. We can navigate to words and lines using PgUp and PgDn button 
+16. Right side scroll bar, when the lines are beyond 10.
+17. Autocorrect is not availble.
+18. Incorrect spelling will validates.
+19. Grammer checking like grammerly is not available.
+20. Autofill of a word is not available
+21. Word suggestion related to our content is not available.
+22. Text size editor to increase and decrease size of the word is not available
+23. Input with rich text editor [Bold - Italic-Underline- strikethrough] can be used all at a time
+24. Input with rich text editor [Bold - Italic - Underline - strikethrough] can be used separately as one by one.
+25. The rich text editor [Bold - Italic - Underline - strikethrough] 'can be selected' and the user can write an update.
+26. Or the user 'can edit their words' by selecting the word for their convinience with rich text editor [Bold - Italic - Underline - strikethrough] 
+27. The rich text editor [Removeformatting] 'cannot be selected' and the user can write an update.
+28. Or the user 'can remove the edit of their words' by selecting the word for their convinience with rich text editor [Removeformatting].
+29. The rich text editor [Removeformatting] 'can be selected' in the listed content and the user can write an update - It will remove the bulleted or numbered list to normal.
+30. The user can select editor and unselect 'with giving whitespaces' will also work.
+31. The user can select editor and unselect 'without giving whitespaces' will also work.
+32. In a between a single word by selecting the rich text editor- will not edit the past word it will work for words to be typed only after clicking the button.
+33. The words can be selected to create a link.
+34. The link option will active only when any of the word is selected.
+35. The link option will inactive when any of the word is not selected.
+36. The user can use and remove numbered list with their content.
+37. The user can use and remove bulleted list with their content.
+38. The user can use both numbered and bulleted list in the chatter box.
+39. The user can change the numbered list to bulleted list by clicking bulleted list.
+40. The user can change bulleted list to numbered list by clicking numbered list.
+41. The user cannot select the two list at a time.
+42. The user can select only one at a time.
+43. Mentioning people and group, In this user can mention when there is a particular people or group is available,
+44. It should suggest the username or profilename and the user can mention people or group .
+45. It should suggest the username or profilename after giving atleast 'first two letter' of the particular username or profile 'case insensitve'
+46. It should suggest the username or profilename after giving atleast 'first two letter' of the particular username or profile 'with case sensitive'
+47. When the particular people or group is not available, it should have 'no result' and user cannot mention any customized people or group.
+48. User can add image with the text,  by selecting the image available in the options 'owned by me, shared with me, recent and following' and insert.
+49. And also by clicking upload image button can upload images in the system 
+50. We can change the name of image by renaming the image to user preferences.
+51. We can preview the image before adding
+52.With this comment the user can attach files, By selecting the files available in the options 'owned by me, shared with me, recent and following' and insert.
+53.  And also by clicking upload files button can upload files in the system and the files can have preview facilities based on user necessity.
+54. We cannot change the name of files by renaming the image to user prefetrnces
+55. The user can preview the file before adding.
+56. If we didn't login into the page we cannot share our update.
+57. If we didn't login into the page, we can only be able to search the comments in chatter box. 
+58. If we didn't login into the page, It will show 'LoginIn to comment'.
+59. We can able to copy and paste in the chatterbox.
+60. We can able to copy and paste any languages [tamil, telugu] in the chatterbox.
+61. The copying of anywords bigger or smaller than default size, will returns to default size of the chatter box.
+62. But copying of bold letter, will remains bold of default size.
+63. Copying of italic letter, will remains italic of default size.
+64. Copying of underlined letter, will remains underlined of default size by pasting it in chatter 
+65. Copying of strikethrough letter, will remains strikethrough of default size by pasting it in chatter box.
+66. Before touching the share an update input box, if we suppose to click the share button. We cannot share our empty update.
+67. If we try to share the empty update, it will make us to write things in the chatter box.
+68. The chatterbox can hold more than 3,00,000 length, but it cannot be shared
+69. But up-to 10,000 length is limited to share the content.
+70. It will show 'Review the errors on this page.' beyond using 10,000 words
+71. And also 'Review the errors on this page.' in the bottom.
+72. Only 10 files can be added to the content.
+73. We cannot find file attachment option beyond 10 files.
+74. It will show validation while selecting files more than 10, during selection
+75. The user can add pdf, MS word doc,jpg,png, Text document, Javascript file, Win zip file,pem, JSON, Putty private key and .md file
+76. The user can share files with size of 500Mb, till I have checked.
+77. Untill uploading, the user cannot find share button.
+78. Uploading time will be increased by increasing the size of our files.
+79. We can share a maximum 10 images, for a command
+80. The user can remove the images using delete and backspace button just like texts.
+81. While adding the image continuously, the old image goes down and newly added image comes first.
+82. The user can add only jpg and png files.
+
+

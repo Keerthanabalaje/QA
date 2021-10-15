@@ -1,0 +1,85 @@
+Completed commands of cypress
+1. and - C
+2. as
+3. blur
+4. check
+5. children
+6. clear
+7. clearCookie
+8. clearCookies
+9. clearLocalStorage
+10. click - C
+11. clock
+12. closest
+13. contains - C
+14. dblclick
+15. debug
+16. document
+17. each
+18. nd
+19. eq -C
+20. exec
+21. filter
+22. find - C
+23. first
+24. fixture
+25. focus
+26. focused
+27. get - C
+28. getCookie
+29. getCookies
+30. go
+31. hash
+32. hover
+33. intercept
+34. invoke
+35. its
+36. last
+37. location
+38. log
+39. next
+40. nextAll
+41. nextUntil
+42. not - C
+43. parent
+44. parents
+45. parentsUntil
+46. pause
+47. prev
+48. prevAll
+50. prevUntil
+51. readFile
+52. reload
+53. request
+54. rightclick
+55. root
+56. route
+57. screenshot - C
+58. scrollIntoView
+59. scrollTo
+60. select - C
+61. server
+62. setCookie
+63. shadow
+64. should - C
+65. siblings
+66. spread
+67. spy
+68. stub
+69. submit
+70. task
+71. then
+72. tick
+73. title
+74. trigger
+75. type - C
+75. uncheck
+76. url - C
+77. viewport - C
+78. visit - C
+79. wait - C
+80. window - C
+81. within
+82. wrap
+83. writeFile
+84. before, beforeEach, after, afterEach  - C
